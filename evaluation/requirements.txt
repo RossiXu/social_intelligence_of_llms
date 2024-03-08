@@ -1,0 +1,6 @@
+numpy
+pandas
+tqdm
+concurrent
+collections
+openai==0.28.0
